@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/jose/Downloads/apache-log4j-2.17.2-bin/log4j-api-2.17.2.jar"/>
+	<classpathentry kind="lib" path="/home/jose/Downloads/apache-log4j-2.17.2-bin/log4j-api-2.17.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/jose/Downloads/apache-log4j-2.17.2-bin/log4j-api-2.17.2-sources.jar"/>
+	<classpathentry kind="lib" path="/home/jose/Downloads/apache-log4j-2.17.2-bin/log4j-core-2.17.2.jar"/>
+	<classpathentry kind="lib" path="/home/jose/Downloads/apache-log4j-2.17.2-bin/log4j-core-2.17.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/jose/Downloads/apache-log4j-2.17.2-bin/log4j-core-2.17.2-sources.jar"/>
+	<classpathentry kind="lib" path="/home/jose/Downloads/slf4j-api-1.7.9.jar"/>
+	<classpathentry kind="lib" path="/home/jose/Downloads/webcam-capture-0.3.13-20200330.202351-7.jar"/>
+	<classpathentry kind="lib" path="/home/jose/Downloads/slf4j-simple-1.7.36.jar"/>
+	<classpathentry kind="lib" path="/home/jose/Downloads/bridj-0.6.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
